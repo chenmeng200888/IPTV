@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="jmstv1" tvg-name="卷毛鼠公益TV" tvg-logo="https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.jpg" group-title="卷毛鼠",卷毛鼠公益TV
-https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.mp4
-#EXTINF:-1 tvg-id="jmstv2" tvg-name="Telegram" tvg-logo="https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.jpg" group-title="卷毛鼠",Telegram
-https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.mp4
-#EXTINF:-1 tvg-id="jmstv3" tvg-name="@Curly_MouseIPTV" tvg-logo="https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.jpg" group-title="卷毛鼠",@Curly_MouseIPTV
-https://cdn.jsdelivr.net/gh/JMSTV/iptv/jmstv.mp4
 #EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png" group-title="中国",CCTV-4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221226998/index.m3u8?servicetype=1
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="中国",CCTV-1
