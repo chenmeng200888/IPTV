@@ -8,8 +8,6 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227055/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221225802/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png",CCTV5
 http://39.135.55.105:6610/PLTV/88888888/224/3221227170/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
-http://39.135.55.105:6610/PLTV/88888888/224/3221225821/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6
 http://39.135.55.105:6610/PLTV/88888888/224/3221227137/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png",CCTV7
@@ -30,8 +28,6 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221225817/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221225819/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png",CCTV15
 http://39.135.55.105:6610/PLTV/88888888/224/3221225818/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16
-http://39.135.55.105:6610/PLTV/88888888/224/3221227148/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV16.png",CCTV16 4K
 http://39.135.55.105:6610/PLTV/88888888/224/3221227162/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17
@@ -40,10 +36,6 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221226990/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227222/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
 http://39.135.55.105:6610/PLTV/88888888/224/3221227226/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/中国教育1台.png",中国教育1
-http://39.135.55.105:6610/PLTV/88888888/224/3221227067/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongnan.png",东南卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227156/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221225828/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shenzhen.png",深圳卫视
@@ -54,40 +46,10 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221225826/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221225830/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221225824/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/sichuan.png",四川卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227182/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/chongqing.png",重庆卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221225831/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221225844/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山东卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221225843/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221225847/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangxi.png",江西卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221225834/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hebei.png",河北卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227063/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221225825/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hainan.png",海南卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227216/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221225840/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视
 http://39.135.55.105:6610/PLTV/88888888/224/3221225827/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/yunnan.png",云南卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227181/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guizhou.png",贵州卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227201/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221225832/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jilin.png",吉林卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221227099/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视
-http://39.135.55.105:6610/PLTV/88888888/224/3221225862/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shanxi.png",山西卫视
-http://liveflash.sxrtv.com/live/sxwshd.m3u8
 #EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/qjs.png",SiTV全纪实
 http://39.135.55.105:6610/PLTV/88888888/224/3221227083/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jsqc.png",SiTV极速汽车
@@ -136,11 +98,6 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221225889/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221225888/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV",NewTV金牌综艺
 http://39.135.55.105:6610/PLTV/88888888/224/3221225884/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV",哒啵赛事
-http://39.135.55.105:6610/PLTV/88888888/224/3221225894/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV",哒啵赛事
-http://39.135.55.105:6610/PLTV/88888888/224/3221226676/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV",哒啵赛事
 http://39.135.55.105:6610/PLTV/88888888/224/3221226680/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV",黑莓动画
 http://39.135.55.105:6610/PLTV/88888888/224/3221225878/index.m3u8?servicetype=1
@@ -171,5 +128,3 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221226712/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV",百视通电影3
 http://39.135.55.105:6610/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV",百视通电影4
-http://39.135.55.105:6610/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
-#EXTINF:-1 group-title="福建IPTV",百视通电竞
