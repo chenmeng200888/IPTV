@@ -174,3 +174,61 @@ http://39.135.55.105:6610/PLTV/88888888/224/3221227130/index.m3u8?servicetype=1
 http://39.135.55.105:6610/PLTV/88888888/224/3221227037/index.m3u8?servicetype=1
 #EXTINF:-1 group-title="福建IPTV",百视通电竞
 http://39.135.55.105:6610/PLTV/88888888/224/3221227033/index.m3u8?servicetype=1
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV1.png",CCTV1
+http://111.20.33.93/TVOD/88888893/224/3221226231/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png",CCTV2
+http://111.20.33.93/TVOD/88888893/224/3221226195/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png",CCTV3
+http://111.20.33.93/TVOD/88888893/224/3221226397/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4
+http://111.20.33.93/TVOD/88888893/224/3221226191/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png",CCTV4
+http://111.20.33.93/TVOD/88888893/224/3221226223/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png",CCTV5+
+http://111.20.33.93/TVOD/88888893/224/3221226221/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png",CCTV6
+http://111.20.33.93/TVOD/88888893/224/3221226393/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png",CCTV8
+http://111.20.33.93/TVOD/88888893/224/3221226391/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV9.png",CCTV9
+http://111.20.33.93/TVOD/88888893/224/3221226197/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png",CCTV14
+http://111.20.33.93/TVOD/88888893/224/3221226193/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV17.png",CCTV17
+http://111.20.33.93/TVOD/88888893/224/3221226198/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/zhejiang.png",浙江卫视
+http://111.20.33.93/TVOD/88888893/224/3221226199/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/tianjin.png",天津卫视
+http://111.20.33.93/TVOD/88888893/224/3221226204/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hunan.png",湖南卫视
+http://111.20.33.93/TVOD/88888893/224/3221226211/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongfang.png",东方卫视
+http://111.20.33.93/TVOD/88888893/224/3221226217/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jiangsu.png",江苏卫视
+http://111.20.33.93/TVOD/88888893/224/3221226200/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/liaoning.png",辽宁卫视
+http://111.20.33.93/TVOD/88888893/224/3221226210/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/beijing.png",北京卫视
+http://111.20.33.93/TVOD/88888893/224/3221226222/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/guangdong.png",广东卫视
+http://111.20.33.93/TVOD/88888893/224/3221226216/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
+http://111.20.33.93/TVOD/88888893/224/3221226194/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/hubei.png",湖北卫视
+http://111.20.33.93/TVOD/88888893/224/3221226206/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/shandong.png",山东卫视
+http://111.20.33.93/TVOD/88888893/224/3221226209/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视
+http://111.20.33.93/TVOD/88888893/224/3221226196/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/anhui.png",安徽卫视
+http://111.20.33.93/TVOD/88888893/224/3221226203/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/heilongjiang.png",黑龙江卫视
+http://111.20.33.93/TVOD/88888893/224/3221226215/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jinyingjishi.png",湖南金鹰纪实
+http://111.20.33.93/TVOD/88888893/224/3221226351/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/jishirenwen.png",上海纪实人文
+http://111.20.33.93/TVOD/88888893/224/3221226230/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/dongaojishi1.png",北京冬奥纪实
+http://111.20.33.93/TVOD/88888893/224/3221226232/index.m3u8
+#EXTINF:-1 group-title="陕西回看" tvg-logo="http://epg.51zmt.top:8000/tb1/ws/aishang4k.png",爱上4K
+http://111.20.33.93/TVOD/88888893/224/3221226352/index.m3u8
