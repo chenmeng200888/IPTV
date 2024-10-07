@@ -1,4 +1,6 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
+#EXTINF:-1 tvg-name="到期时间" tvg-logo="https://thumbs.dreamstime.com/z/%E5%9C%A8%E7%81%AB%E7%9A%84%E6%97%B6%E9%92%9F-%E6%97%B6%E9%97%B4%E5%95%86%E6%A0%87-115721649.jpg" group-title="到期时间",到期: 2025-10-07 21:52:00
+http://free.xiptv.x10.bz/nolive.mp4
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1
 http://103.40.13.47:17393/api/token_test.php?id=cctv1&user=0DGB8Z67PfJj6Vhp
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视",CCTV2
