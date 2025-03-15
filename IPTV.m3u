@@ -3,8 +3,8 @@ http://113.251.252.199:8199/rtp/235.254.198.51:1480
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" ,CCTV-2
 http://49.86.119.244:5678/rtp/239.49.8.130:6000
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" CCTV-3
-http://183.133.120.244:9999/udp/233.50.201.196:5140
+http://125.113.56.160:8888/udp/233.50.200.107:5140
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" ,CCTV-6
 http://60.169.90.59:8686/rtp/238.1.78.172:7248
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" ,CCTV-8
-https://node1.olelive.com:6443/live/CCTV8HD/hls.m3u8
+http://tvh.990066.xyz/stream/channelid/234758648?profile=pass
