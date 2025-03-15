@@ -1,4 +1,4 @@
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" ,CCTV-1
-http://39.65.104.232:4002/udp/239.253.254.77:8000
+http://183.133.120.244:9999/udp/233.50.201.118:5140
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" ,CCTV-2
 http://39.65.104.232:4002/udp/239.253.254.232:8000
